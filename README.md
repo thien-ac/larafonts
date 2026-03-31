@@ -1,5 +1,5 @@
 # larafonts
-Font repo for lara
+Font repo for [lara](https://github.com/rooootdev/lara)
 
 ## make your own repo:
 1. Fork this repo
