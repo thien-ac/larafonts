@@ -4,58 +4,14 @@
   "repo_icon": "https://github.com/rooootdev.png",
   "fonts": [
     {
-      "name": "SFUI",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/SFUI.ttf",
+      "name": "pinyin",
+      "url": "https://github.com/thien-ac/larafonts/fonts/pinyin.ttf",
       "format": "truetype"
     },
+  
     {
-      "name": "Chococooky",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Chococooky.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Comic Sans MS",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Comic%20Sans%20MS.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "DejaVu Sans Condensed",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSansCondensed.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "DejaVu Sans Mono",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSansMono.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "DejaVu Serif",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSerif.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Fira Sans Regular",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/FiraSans-Regular.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Go Mono",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Go-Mono.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Go Regular",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Go-Regular.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "QuickSand",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/QuickSand.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Segoe UI",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/segoeui.ttf",
+      "name": "rix love fool",
+      "url": "https://github.com/thien-ac/larafonts/fonts/rixlovefool.ttf",
       "format": "truetype"
     }
   ]
