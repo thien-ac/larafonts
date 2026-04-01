@@ -5,13 +5,13 @@
   "fonts": [
     {
       "name": "pinyin",
-      "url": "https://github.com/thien-ac/larafonts/fonts/pinyin.ttf",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyin.ttf",
       "format": "truetype"
     },
   
     {
       "name": "rix love fool",
-      "url": "https://github.com/thien-ac/larafonts/fonts/rixlovefool.ttf",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/rixlovefool.ttf",
       "format": "truetype"
     }
   ]
