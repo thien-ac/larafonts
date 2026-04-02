@@ -5,7 +5,7 @@
   "fonts": [
     {
       "name": "pinyin",
-      "url": "",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyinmdc.ttf",
       "format": "truetype"
     },
   
