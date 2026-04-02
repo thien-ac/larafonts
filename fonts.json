@@ -10,7 +10,7 @@
     },
     {
       "name": "pinyin mdc 好",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyinmdc.ttf",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyinv1.ttf",
       "format": "truetype"
     },  
     {
@@ -33,7 +33,7 @@
         ,  
     {
       "name": "Hanzi-Pinyin-Font.top",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/Hanzi-Pinyin-Font.topv1.ttf",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyin.ttf",
       "format": "truetype"
     }
   ]
