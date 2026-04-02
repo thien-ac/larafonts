@@ -1,14 +1,18 @@
 {
   "repo_name": "Thien",
   "repo_author": "roooot",
-  "repo_icon": "https://github.com/rooootdev.png",
+  "repo_icon": "https://github.com/thien-ac.png",
   "fonts": [
     {
-      "name": "pinyin",
+      "name": "pinyin 你好",
       "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyinmdc.ttf",
       "format": "truetype"
     },
-  
+    {
+      "name": "pinyin regular好",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyin-regular.ttf",
+      "format": "truetype"
+    },  
     {
       "name": "rix love fool",
       "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/rixlovefool.ttf",
