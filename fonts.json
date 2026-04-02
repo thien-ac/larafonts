@@ -4,8 +4,8 @@
   "repo_icon": "https://github.com/thien-ac.png",
   "fonts": [
     {
-      "name": "pinyin 你好",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyinmdc.ttf",
+      "name": "pinyin 你好 v1",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyinmdcv1.ttf",
       "format": "truetype"
     },
     {
