@@ -1,6 +1,6 @@
 {
   "repo_name": "Thien",
-  "repo_author": "roooot",
+  "repo_author": "Thiện",
   "repo_icon": "https://github.com/thien-ac.png",
   "fonts": [
     {
@@ -34,6 +34,12 @@
     {
       "name": "Hanzi-Pinyin-Font.top",
       "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyin.ttf",
+      "format": "truetype"
+    }
+            ,  
+    {
+      "name": "Hanzi-Pinyin-gốc -v1.top",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyin-10.ttf",
       "format": "truetype"
     }
   ]
