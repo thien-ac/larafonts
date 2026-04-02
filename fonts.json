@@ -30,5 +30,11 @@
       "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/rixlovefoolv1.ttf",
       "format": "truetype"
     }
+        ,  
+    {
+      "name": "Hanzi-Pinyin-Font.top",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/Hanzi-Pinyin-Font.topv1.ttf",
+      "format": "truetype"
+    }
   ]
 }
