@@ -17,10 +17,17 @@
       "name": "pinyin-wenkai-light好",
       "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyin-wenkai-light.ttf",
       "format": "truetype"
-    },  
+    },
+      
     {
       "name": "rix love fool",
       "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/rixlovefool.ttf",
+      "format": "truetype"
+    }
+    ,  
+    {
+      "name": "rix love fool v1",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/rixlovefoolv1.ttf",
       "format": "truetype"
     }
   ]
