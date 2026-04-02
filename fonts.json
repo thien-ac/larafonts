@@ -4,13 +4,13 @@
   "repo_icon": "https://github.com/thien-ac.png",
   "fonts": [
     {
-      "name": "pinyin 你好 v1",
+      "name": "pinyin 你好 mdc v1",
       "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyinmdcv1.ttf",
       "format": "truetype"
     },
     {
-      "name": "pinyin regular好",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyin-regular.ttf",
+      "name": "pinyin mdc 好",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyinmdc.ttf",
       "format": "truetype"
     },  
     {
