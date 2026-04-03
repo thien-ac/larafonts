@@ -42,5 +42,17 @@
       "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/Font1.ttf",
       "format": "truetype"
     }
+    ,  
+    {
+      "name": "Pinyin fzstk 你好 2",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/fzstk.ttf",
+      "format": "truetype"
+    }
+    ,  
+    {
+      "name": "Pinyin fzytk 你好 2",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/fzytk.ttf",
+      "format": "truetype"
+    }
   ]
 }
