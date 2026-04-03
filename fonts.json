@@ -22,5 +22,29 @@
       "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyin1.ttf",
       "format": "truetype"
     }
+              ,
+        {
+      "name": "1 你好 235 - chưa chỉnh sửa",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/1.ttf",
+      "format": "truetype"
+    }
+              ,
+        {
+      "name": "2 你好 235 - chưa chỉnh sửa",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/2.ttf",
+      "format": "truetype"
+    }
+              ,
+        {
+      "name": "3 你好 235 - chưa chỉnh sửa",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/3.ttf",
+      "format": "truetype"
+    }
+              ,
+        {
+      "name": "4 235 - chưa chỉnh sửa",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/4.ttf",
+      "format": "truetype"
+    }
   ]
 }
