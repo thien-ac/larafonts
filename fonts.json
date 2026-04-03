@@ -3,70 +3,7 @@
   "repo_author": "Thiện",
   "repo_icon": "https://github.com/thien-ac.png",
   "fonts": [
-    {
-      "name": "pinyin 你好 mdc v1",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/font1.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "pinyin mdc 好",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/pinyinv1.ttf",
-      "format": "truetype"
-    },  
-    {
-      "name": "pinyin-wenkai-light好",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/Hanzi-Pinyin-Font.topv1.ttf",
-      "format": "truetype"
-    },
-      
-    {
-      "name": "rix love fool",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/rixlovefool.ttf",
-      "format": "truetype"
-    }
-    ,  
-    {
-      "name": "rix love fool v1",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/rixlovefoolv1.ttf",
-      "format": "truetype"
-    }
-        ,  
-    {
-      "name": "Pinyin 你好 1",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/Font2.ttf",
-      "format": "truetype"
-    }
-            ,  
-    {
-      "name": "Pinyin 你好 2",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/Font1.ttf",
-      "format": "truetype"
-    }
-    ,  
-    {
-      "name": "Pinyin fzstk 你好 2",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/fzstk.ttf",
-      "format": "truetype"
-    }
-    ,  
-    {
-      "name": "Pinyin fzytk 你好 2",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/fzytk.ttf",
-      "format": "truetype"
-    }
-      ,
-        {
-      "name": "Pinyin fzytk 你好 3 - đã chỉnh sửa",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/font3.ttf",
-      "format": "truetype"
-    }
-          ,
-        {
-      "name": "Pinyin fzytk 你好 2 - chưa chỉnh sửa",
-      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/font2.ttf",
-      "format": "truetype"
-    }
-          ,
+ 
         {
       "name": "Pinyin fzytk 你好 34 - đã chỉnh sửa",
       "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/font3.ttf",
