@@ -66,5 +66,17 @@
       "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/font2.ttf",
       "format": "truetype"
     }
+          ,
+        {
+      "name": "Pinyin fzytk 你好 34 - đã chỉnh sửa",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/font3.ttf",
+      "format": "truetype"
+    }
+          ,
+        {
+      "name": "Pinyin fzytk 你好 235 - chưa chỉnh sửa",
+      "url": "https://github.com/thien-ac/larafonts/raw/refs/heads/main/fonts/font2.ttf",
+      "format": "truetype"
+    }
   ]
 }
